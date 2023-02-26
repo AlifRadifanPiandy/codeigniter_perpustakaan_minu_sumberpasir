@@ -1,0 +1,1 @@
+Aplikasi Sistem Informasi Perpustakaan ini dibuat oleh Mahasiswa Teknik Informatika UIN Maliki Malang.
